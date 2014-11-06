@@ -1,4 +1,3 @@
-Remote-Android
+Android Remote
 ==============
-
-Remote-Android
+A simple server exchange data with a simple client.

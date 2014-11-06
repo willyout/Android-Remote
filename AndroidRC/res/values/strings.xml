@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidRCActivity!</string>
+    <string name="app_name">AndroidRC</string>
+    <string name="app_conf">AndroidRC</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_send">Send</string>
+    <string name="label_command">Command</string>
+    <string name="label_response">Response</string>
+    <string name="button_configure">Config</string>
+    <string name="button_device">Device</string>
+</resources>
